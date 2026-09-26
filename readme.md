@@ -1,1 +1,1 @@
-hi , welcome to the github workshop.
+hi , welcome to the github and git workshop.
